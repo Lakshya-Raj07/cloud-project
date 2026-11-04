@@ -1,0 +1,15 @@
+moto[all]
+moto[server]
+boto3
+fastapi
+uvicorn
+scikit-learn
+psutil
+watchdog
+streamlit
+requests
+matplotlib
+seaborn
+flask
+flask-cors
+

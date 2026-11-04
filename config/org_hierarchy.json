@@ -1,0 +1,23 @@
+{
+  "organization": {
+    "root_id": "r-root01",
+    "ous": [
+      {
+        "name": "Dev",
+        "accounts": ["111122223331", "111122223332"]
+      },
+      {
+        "name": "Stage",
+        "accounts": ["222233334441"]
+      },
+      {
+        "name": "Prod",
+        "accounts": ["333344445551", "333344445552"]
+      },
+      {
+        "name": "Regulated",
+        "accounts": ["444455556661"]
+      }
+    ]
+  }
+}

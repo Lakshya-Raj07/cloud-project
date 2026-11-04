@@ -1,0 +1,14 @@
+{
+  "timestamp": 1793694441.3748012,
+  "baseline_policy_id": "p-kmt7wvpk",
+  "max_risk_score": 0.1772,
+  "actions_restricted_count": 0,
+  "cloudtrail_lag_seconds": 390.0,
+  "cloudtrail_lag_minutes": 6.5,
+  "local_update_latency_avg_ms": 21.0,
+  "local_update_latency_std_ms": 6.56,
+  "paper_benchmark_latency_ms": 247.4,
+  "paper_benchmark_latency_std_ms": 58.6,
+  "simulated_exposure_duration_seconds": 390.2474,
+  "policy_update_calls": 5
+}

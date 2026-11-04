@@ -1,0 +1,10 @@
+{
+  "timestamp": 1793694479.216389,
+  "policy_evaluation_latency_ms": 0.0012,
+  "policy_evaluation_latency_std_ms": 0.0019,
+  "control_plane_api_calls": 0,
+  "containment_duration_ms": 63.184,
+  "containment_duration_seconds": 0.0632,
+  "target_containment_sla": "< 1.0 second",
+  "target_evaluation_sla": "< 1.0 ms"
+}

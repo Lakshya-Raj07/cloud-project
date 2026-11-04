@@ -1,0 +1,21 @@
+{
+  "total_runs": 20,
+  "baseline_summary": {
+    "mean_seconds": 415.75119372698407,
+    "median_seconds": 408.73212283536503,
+    "min_seconds": 334.14858069483665,
+    "max_seconds": 521.0159939671025,
+    "std_dev_seconds": 53.70704781003021,
+    "mean_minutes": 6.929186562116401
+  },
+  "advance_summary": {
+    "mean_seconds": 0.07288612499999089,
+    "median_seconds": 0.061274849999790604,
+    "min_seconds": 0.0486004999997931,
+    "max_seconds": 0.2696270999999797,
+    "std_dev_seconds": 0.046017704710337885,
+    "mean_ms": 72.8861249999909,
+    "in_memory_eval_latency_ms": 0.001915000098051678
+  },
+  "speedup_factor": 5704.119868178423
+}

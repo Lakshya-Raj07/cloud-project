@@ -1,0 +1,21 @@
+{
+  "Version": "2012-10-17",
+  "Statement": [
+    {
+      "Sid": "DenyHighRiskPrincipalsBySessionTag",
+      "Effect": "Deny",
+      "Action": [
+        "s3:DeleteBucket",
+        "iam:*",
+        "ec2:TerminateInstances",
+        "rds:DeleteDBInstance"
+      ],
+      "Resource": "*",
+      "Condition": {
+        "StringEquals": {
+          "aws:PrincipalTag/RiskLevel": "High"
+        }
+      }
+    }
+  ]
+}

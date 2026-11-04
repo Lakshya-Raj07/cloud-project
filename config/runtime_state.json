@@ -1,0 +1,35 @@
+{
+  "root_id": "r-zfh2",
+  "ous": {
+    "Dev": {
+      "id": "ou-zfh2-n30aov1m",
+      "accounts": [
+        "028570601226",
+        "044864728826"
+      ]
+    },
+    "Stage": {
+      "id": "ou-zfh2-2ocds6wm",
+      "accounts": [
+        "063702444168"
+      ]
+    },
+    "Prod": {
+      "id": "ou-zfh2-1g0h88wn",
+      "accounts": [
+        "234547708591",
+        "127816802488"
+      ]
+    },
+    "Regulated": {
+      "id": "ou-zfh2-aaz4bayh",
+      "accounts": [
+        "050987371284"
+      ]
+    }
+  },
+  "policies": {
+    "baseline_policy_id": "p-eua2xlqo",
+    "static_guardrail_policy_id": "p-y7pnb4ar"
+  }
+}
